@@ -4,6 +4,7 @@ Confirmed to be working on:
 - ThinkPad P1 Gen 3 with Nvidia GPU
 - ThinkPad X1 Extreme Gen 3 (@dharmatech)
 - ThinkPad P15 Gen 2 (@stavoxnetworks)
+- ThinkPad P14s Gen 5 intel (@ptmolter)
 
 Please open an issue to have me add your model to the confirmed list. Thank you!
 
